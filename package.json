@@ -19,7 +19,7 @@
     "@babel/preset-typescript": "^7.15.0",
     "@types/node": "^16.7.10",
     "@types/react": "^17.0.19",
-    "@types/styled-components": "^5.1.13",
+    "@types/styled-components": "^5.1.14",
     "@typescript-eslint/eslint-plugin": "^4.30.0",
     "@typescript-eslint/parser": "^4.30.0",
     "babel-plugin-styled-components": "^1.13.2",
